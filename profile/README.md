@@ -3,6 +3,10 @@
 
 
 
+https://github.com/CUERT-Autonomous-Team/.github/assets/75990647/9f9920f8-2b1e-4eed-9b99-39896a52afdb
+
+
+
 Welcome! We are a group of individuals dedicated to advancing the development and adoption of autonomous vehicles.
 
 ## Purpose
